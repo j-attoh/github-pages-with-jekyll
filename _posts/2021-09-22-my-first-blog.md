@@ -1,9 +1,8 @@
 ---
-
-layout: Post 
-title: Pyschology, Leadership && Social Issues
-
+title: "Psychology, Leadership && Social Issues"
+date: 2021-09-22
 ---
+
 
 # Welcome 
 
