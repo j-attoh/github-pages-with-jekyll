@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Why We Do What We do 
+author: Jonathan Attram Attoh
+email: prokwekz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We would talk about the Human Psyche, Leadership 
+  We would try to understand why we do what we Do
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  j-attoh # DO NOT include the @ character, or else the build will fail!
+
+# theme to use 
+theme: minima
 
 show_excerpts: true # set to false to remove excerpts on the homepage
